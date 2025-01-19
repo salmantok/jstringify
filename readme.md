@@ -2,6 +2,12 @@
 
 `jstringify` adalah utilitas `JSON.stringify()` JavaScript. Mendukung tipe data primitif, tipe data kompleks seperti array, object, Map, dan Set, serta menangani referensi siklik secara otomatis.
 
+## Instalasi
+
+```bash
+npm install jstringify
+```
+
 ## API
 
 ### `jstringify`
