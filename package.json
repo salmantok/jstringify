@@ -1,0 +1,27 @@
+{
+  "name": "jstringify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./dist/cjs/jstringify.js",
+  "module": "./dist/esm/jstringify.js",
+  "files": [
+    "./dist/"
+  ],
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jstringify",
+    "json",
+    "string",
+    "jsonfile"
+  ],
+  "author": "salmantok",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmantok/jstringify.git"
+  },
+  "homepage": "https://github.com/salmantok/jstringify#readme"
+}
