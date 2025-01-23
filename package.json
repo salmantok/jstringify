@@ -2,6 +2,10 @@
   "name": "jstringify",
   "version": "0.0.2",
   "description": "",
+  "exports": {
+    "require": "./dist/cjs/index.js",
+    "import": "./dist/esm/index.js"
+  },
   "main": "./dist/cjs/jstringify.js",
   "module": "./dist/esm/jstringify.js",
   "files": [
